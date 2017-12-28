@@ -3,15 +3,19 @@
 open cmd and go to directory where you want to download repository and follow as below
 
 1) clone git to your machine below code
+
 git clone https://github.com/nishit-manjarawala/newGittest.git
 
 2) put your all files into repository 
 
 3) run new command : git status
+
 This command show file status of our repository
 
 4) run new command as below to add files to repository
+
 git add Filename
+
 if want to add all file use '.'
 
 5) if you have not set up your git global email and name then set it as below else skip this point

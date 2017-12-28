@@ -22,13 +22,17 @@ git config --global user.name "Nishit"
 
 
 6) Now Commit your work with message as below
+
 git commit -m "first file commit"
+
 -m is use for set message with for commit
 
 on commit github ask for email and password
 
 7) after successfully commit still file not updated on github. for update on github run command as below.
+
 git push
 
 8) if you want to get new or update file from github to your local system run command as below
+
 git pull

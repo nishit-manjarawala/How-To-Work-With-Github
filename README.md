@@ -2,11 +2,9 @@
 
 open cmd and go to directory where you want to download repository and follow as below
 
-1) clone git to your machine below code
+1) clone git to your machine : git clone https://github.com/nishit-manjarawala/newGittest.git
 
-git clone https://github.com/nishit-manjarawala/newGittest.git
-
-2) put your all files into repository 
+2) put your all files into repository folder
 
 3) run new command : git status
 
@@ -25,18 +23,12 @@ git config --global user.email "manjarawalanishit@gmail.com"
 git config --global user.name "Nishit"
 
 
-6) Now Commit your work with message as below
+6) Now Commit your work with message :git commit -m "commit message go here"
 
-git commit -m "first file commit"
+-m is use for set message to commit int this message you can explain your work and what task you did.
 
--m is use for set message with for commit
+on commit github ask for email and password give your github account email and password
 
-on commit github ask for email and password
+7) after successfully commit still file not updated on github. for update on github run command : git push
 
-7) after successfully commit still file not updated on github. for update on github run command as below.
-
-git push
-
-8) if you want to get new or update file from github to your local system run command as below
-
-git pull
+8) if you want to get new or update file from github to your local system run command : git pull

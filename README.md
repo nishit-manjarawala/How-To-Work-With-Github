@@ -10,13 +10,11 @@ open cmd and go to directory where you want to download repository and follow as
 
 This command show file status of our repository
 
-4) run new command as below to add files to repository
+4) run new command as below to add files to repository : git add Filename_goes_here
 
-git add Filename
+if you want to add all file use '.' insted of file_name
 
-if want to add all file use '.'
-
-5) if you have not set up your git global email and name then set it as below else skip this point
+5) if you have not set up your git global email and name then set it as below else skip this point:
 
 git config --global user.email "manjarawalanishit@gmail.com"
 

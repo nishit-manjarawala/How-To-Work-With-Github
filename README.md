@@ -15,6 +15,7 @@ git add Filename
 if want to add all file use '.'
 
 5) if you have not set up your git global email and name then set it as below else skip this point
+
 git config --global user.email "manjarawalanishit@gmail.com"
 
 git config --global user.name "Nishit"

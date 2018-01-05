@@ -4,6 +4,8 @@ open cmd and go to directory where you want to download repository and follow as
 
 1) clone git to your machine : git clone https://github.com/nishit-manjarawala/newGittest.git
 
+write cd command and go to repository folder
+
 2) put your all files into repository folder
 
 3) run new command : git status
